@@ -382,7 +382,4 @@ void GrammarToDotStringVisitor::outRule(NonTerm lhs, std::shared_ptr<SymLHS> rul
 
     
 }
-
-
-
 }
